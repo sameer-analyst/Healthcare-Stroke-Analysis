@@ -1,1 +1,2 @@
-# Healthcare-Stroke-Analysis
+Healthcare Stroke Analysis Project
+This project analyzes a real-world healthcare dataset to identify key factors related to stroke risk. Using Python, Pandas, and Matplotlib, the analysis covers gender-wise, age-wise, BMI-wise, smoking-status, glucose-level, and hypertension-based stroke patterns. Multiple visualizations such as bar charts and line charts have been created to highlight important insights. The project includes complete data cleaning, grouping, categorization, and meaningful interpretation of health risk trends. It serves as a strong data analysis portfolio project showcasing end-to-end EDA skills.
